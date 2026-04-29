@@ -1,7 +1,7 @@
 name: posthog
 version: "0.1.0"
-description: "PostHog LLM Analytics for Hermes — emits $ai_generation, $ai_span, $ai_trace events. Install: git clone https://github.com/shivanathd/posthog-hermes ~/.hermes/plugins/posthog && hermes plugins enable posthog"
-author: "@shivanathd"
+description: "PostHog LLM Analytics for Hermes — emits $ai_generation, $ai_span, $ai_trace events. Install: git clone https://github.com/shivasymbl/posthog-hermes ~/.hermes/plugins/posthog && hermes plugins enable posthog"
+author: "@shivasymbl"
 requires_env:
   - POSTHOG_API_KEY
 provides_hooks:
